@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">madhura_android</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="a">30C</string>
+    <string name="b">32C</string>
+    <string name="c">38C</string>
+    <string name="d">33C</string>
+    <string name="e">24C</string>
+    <string name="f">26C</string>
+    <string name="g">28C</string>
+    <string name="h">24C</string>
+    <string name="i">MON</string>
+    <string name="j">TUE</string>
+    <string name="k">WED</string>
+    <string name="l">THUR</string>
+    <string name="m">32C</string>
+    
+</resources>
